@@ -8,9 +8,10 @@ An interactive sales dashboard built with \*\*Python, Streamlit, Pandas and Plot
 
 > All data in this repository is \*\*synthetic (fictional)\*\*, created by `generate\_data.py`.
 
+<img width="1917" height="941" alt="image" src="https://github.com/user-attachments/assets/77d596bc-dbf7-4baf-941e-c6f55c29c735" />
 
 
-!\[Dashboard screenshot](docs/dashboard.png)
+
 
 
 
